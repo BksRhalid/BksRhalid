@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **BksRhalid/BksRhalid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p align="center"><img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/></p>
-<p align="center">
-<a href="https://www.linkedin.com/in/rhalid"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+[![LinkedIn][linkedin-shield]][linkedin-url]
+
 </p>
 
 <p align="center"><img src="https://komarev.com/ghpvc/?username=rhalid&style=flat-square&color=blue" alt=""></p>
@@ -78,4 +75,10 @@ I am a Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - [How to Create an Impressive GitHub Profile README](https://www.sitepoint.com/github-profile-readme/)
 
 -->
+
+
+
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://linkedin.com/in/rhalid
+
 
