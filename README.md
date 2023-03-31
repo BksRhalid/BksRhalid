@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![LinkedIn][linkedin-shield]][linkedin-url]
+<!--[![LinkedIn][linkedin-shield]][linkedin-url]-->
 <p align="left"><img src="https://komarev.com/ghpvc/?username=rhalid&style=flat-square&color=blue" alt=""></p>
 
 
