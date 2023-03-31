@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Paris, France.
+I am a Fintech/Insurtech Product Manager <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Paris, France.
 
-- 🔭 I’m Alyra Fullstack blockchain developper
-- 🤔 I’m looking for help on DeFi projects
+- 🔭 I have recently follow Alyra Fullstack blockchain developper bootcamp
+- 🤔 I’m looking for freelance mission as Product Manager Web3 specially in DeFi
 
 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-rhalid-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rhalid)
